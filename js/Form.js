@@ -38,7 +38,7 @@ class Form {
       player.updateCount(0);
       game.update(0);
 
-      CarsAtEnd.updateCarsAtEnd(0);
+      Player.updateCarsAtEnd(0);
     });
 
 
